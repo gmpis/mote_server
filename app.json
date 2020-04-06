@@ -1,4 +1,4 @@
 {
-  "name": "flask_template ",
-  "description": "This is a template for deploying Flask apps"
+  "name": "Mote server ",
+  "description": "This is a server for controlling Mote led sticks"
 }
